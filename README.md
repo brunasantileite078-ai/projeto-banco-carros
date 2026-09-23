@@ -117,3 +117,15 @@ Estudante de Ciência de Dados, com interesse em **SQL, Banco de Dados, Análise
 ---
 
 📌 Projeto desenvolvido para fins de estudo e construção de portfólio profissional.
+
+projeto-banco-carros/
+├── imagens/
+│   ├── 01_criacao_tabelas.png
+│   ├── 02_join_vendas.png
+│   ├── 03_faturamento_total.png
+│   ├── 04_faturamento_por_marca.png
+│   ├── 05_vendas_por_marca.png
+│   ├── 06_ticket_medio.png
+│   └── 07_maior_venda.png
+├── Banco_carros.sql
+└── README.md
